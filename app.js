@@ -11735,13 +11735,12 @@ Return ONLY the 1-2 word title text, nothing else (no punctuation, no markdown, 
         // 🔑 FIREBASE CONFIGURATION (Connected to gravitylab-d9276)
         // =========================================================================
         const firebaseConfig = {
-          apiKey: "AIzaSyDEMFOlVcMUfr_3bfqa1lzq91P4wIFYt9g",
-          authDomain: "gravitylab-d9276.firebaseapp.com",
-          projectId: "gravitylab-d9276",
-          storageBucket: "gravitylab-d9276.firebasestorage.app",
-          messagingSenderId: "462692838571",
-          appId: "1:462692838571:web:c5bf8f206d82b4ded25bee",
-          measurementId: "G-X372D3RWS0"
+          apiKey: "AIzaSyASL_t-Rq4TNkAfo4BINtin8PlsrDElM7s",
+          authDomain: "vector-30ffb.firebaseapp.com",
+          projectId: "vector-30ffb",
+          storageBucket: "vector-30ffb.firebasestorage.app",
+          messagingSenderId: "410341710131",
+          appId: "1:410341710131:web:0ec0c46f34892a763ec646"
         };
         firebase.initializeApp(firebaseConfig);
       }
